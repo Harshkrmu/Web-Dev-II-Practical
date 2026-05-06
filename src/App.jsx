@@ -7,7 +7,7 @@ function App(){
   return (
     <>
     <div>
-        <h1>Welcome to React Practical🎀</h1>
+        <h1>Welcome to React Practical👓</h1>
     </div>
     <Parent/>
     <Fetching/>
